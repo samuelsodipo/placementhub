@@ -63,3 +63,24 @@ Working frontend prototype. Application data is currently stored locally in the 
 Samuel Sodipo
 Computer Science Student
 Northumbria University
+
+## Application Screenshots
+
+The applications and statuses shown below are fictional demonstration data used to showcase the application's functionality.
+
+### Application Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Application Management
+
+![Applications](screenshots/applications.png)
+
+### Search and Filtering
+
+![Search and Filtering](screenshots/search-filter.png)
+
+### Edit Application
+
+![Edit Application](screenshots/edit-application.png)
+
